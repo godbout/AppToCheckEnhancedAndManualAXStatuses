@@ -11,6 +11,7 @@
 		91F4083428846695008FFC25 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F4083328846695008FFC25 /* ContentView.swift */; };
 		91F4083628846697008FFC25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91F4083528846697008FFC25 /* Assets.xcassets */; };
 		91F4083928846697008FFC25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91F4083828846697008FFC25 /* Preview Assets.xcassets */; };
+		91F40841288473B9008FFC25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F40840288473B9008FFC25 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		91F4083528846697008FFC25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91F4083828846697008FFC25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		91F4083A28846697008FFC25 /* AppToCheckEnhancedAndManualAXStatuses.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AppToCheckEnhancedAndManualAXStatuses.entitlements; sourceTree = "<group>"; };
+		91F40840288473B9008FFC25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				91F4083128846695008FFC25 /* AppToCheckEnhancedAndManualAXStatusesApp.swift */,
+				91F40840288473B9008FFC25 /* AppDelegate.swift */,
 				91F4083328846695008FFC25 /* ContentView.swift */,
 				91F4083528846697008FFC25 /* Assets.xcassets */,
 				91F4083A28846697008FFC25 /* AppToCheckEnhancedAndManualAXStatuses.entitlements */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91F40841288473B9008FFC25 /* AppDelegate.swift in Sources */,
 				91F4083428846695008FFC25 /* ContentView.swift in Sources */,
 				91F4083228846695008FFC25 /* AppToCheckEnhancedAndManualAXStatusesApp.swift in Sources */,
 			);
